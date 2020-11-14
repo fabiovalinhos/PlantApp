@@ -1,11 +1,11 @@
-# plantUiTestFlutter
+# Plant Ui Test Flutter
 
 Just training for create modern UI for plant app.
 
 Teacher The Flutter Way Youtube channel
 https://www.youtube.com/watch?v=LN668OAUrK4&t=608s
 
-![alt Screenshot](<Screenshot.png>)
+![alt Screenshot](<Screenshot.png =250x >)
 
 ## Getting Started
 
